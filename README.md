@@ -13,7 +13,7 @@ You Can download app here:
 
 # Donate
 To support this project, you can make a donation:
-- Paypal:
+- PayPal:
 - - <a href="https://paypal.me/mallowrecords">PayPal.Me</a>
 - Crypto:
 - - BTC: bc1qxdmt5h6sxe9xft24tzyj38cg2qwk3n96r6sf3u
