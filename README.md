@@ -12,6 +12,7 @@ You Can download app here:
 - <a href="https://github.com/mrawsky/Discord-Nitro-Generator/releases">Download</a>
 
 # Donate
+To support this project, you can make a donation:
 - Paypal:
 - - <a href="https://paypal.me/mallowrecords">PayPal.Me</a>
 - Crypto:
