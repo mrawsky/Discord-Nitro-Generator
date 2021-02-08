@@ -1,9 +1,13 @@
 
-# M-Gen | Discord Nitro Generator
-Simple App to Generate Discord Nitro Codes // App made in C++
+# M-Gen | Codes / Gift Cards Generator
+Simple App to Generate Codes / Gift Cards // App made in C++
 
 # Features
-- Fast Generating Nitro Codes 
+- Discord Nitro Generator
+- PaySafeCard Generator
+- Amazon Gift Card Generator
+- Spotify Gift Card Generator
+- Fast Generation Without High CPU Load
 - Save to file
 - New features will be soon...
 
