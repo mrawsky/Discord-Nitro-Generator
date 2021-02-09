@@ -2,13 +2,19 @@
 # M-Gen | Codes / Gift Cards Generator
 Simple App to Generate Codes / Gift Cards // App made in C++
 
+<br>
+<img src="app.png" width="200">
+<br>
+
 # Features
 - Discord Nitro Generator
 - PaySafeCard Generator
 - Amazon Gift Card Generator
 - Spotify Gift Card Generator
+- Easy to use UI
+- x64 and x86 versions
 - Fast Generation Without High CPU Load
-- Save to file
+- Save codes to file
 - New features will be soon...
 
 # Download
