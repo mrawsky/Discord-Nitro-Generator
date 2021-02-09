@@ -6,10 +6,6 @@ Simple App to Generate Codes / Gift Cards // App made in C++
 <img src="logo.png" width="700">
 <br>
 
-<br>
-<img src="app.png" width="700">
-<br>
-
 # Features
 - Discord Nitro Generator
 - PaySafeCard Generator
