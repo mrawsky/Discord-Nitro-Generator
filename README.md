@@ -5,6 +5,8 @@ Simple App to Generate Codes / Gift Cards // App made in C++
 <br>
 <img src="logo.png" width="700">
 <br>
+<img src="app.png" width="700">
+<br>
 
 # Features
 - Discord Nitro Generator
@@ -16,10 +18,6 @@ Simple App to Generate Codes / Gift Cards // App made in C++
 - Fast Generation Without High CPU Load
 - Save codes to file
 - New features will be soon...
-
-<br>
-<img src="app.png" width="700">
-<br>
 
 # Download
 You Can download app here:
