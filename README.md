@@ -3,7 +3,7 @@
 Simple App to Generate Codes / Gift Cards // App made in C++
 
 <br>
-<img src="app.png" width="200">
+<img src="app.png" width="700">
 <br>
 
 # Features
