@@ -3,47 +3,51 @@
 ################### v1.0 ###################
 ############################################
 
-~ HotFix v1.0
+~ HotFix v1.11
   - Fix
   - Fix
 
-~ HotFix v1.0
+~ HotFix v1.10
   - Fix
   - Fix
 
-~ HotFix v1.0
+~ HotFix v1.9
   - Fix
   - Fix
 
-~ HotFix v1.0
+~ HotFix v1.9
   - Fix
   - Fix
 
-~ HotFix v1.0
+~ HotFix v1.8
   - Fix
   - Fix
 
-~ HotFix v1.0
+~ HotFix v1.7
   - Fix
   - Fix
 
-~ HotFix v1.0
+~ HotFix v1.6
   - Fix
   - Fix
 
-~ HotFix v1.0
+~ HotFix v1.5
   - Fix
   - Fix
 
-~ HotFix v1.0
+~ HotFix v1.4
   - Fix
   - Fix
 
-~ HotFix v1.0
+~ HotFix v1.3
   - Fix
   - Fix
 
-~ HotFix v1.0
+~ HotFix v1.2
+  - Fix
+  - Fix
+
+~ HotFix v1.1
   - Fix
   - Fix
 
