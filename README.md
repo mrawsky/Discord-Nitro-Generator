@@ -1,5 +1,5 @@
 
-# M-Gen | Codes / Gift Cards Generator
+# M-Gen v2.0 | Codes / Gift Cards Generator
 Advanced App to Generate Codes / Gift Cards // App made in C++
 
 <br>
